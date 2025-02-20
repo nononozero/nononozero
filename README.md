@@ -5,12 +5,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
-⭐ GitHub Stats
+⭐ **GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nononozero&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nononozero)](https://github.com/nononozero/github-readme-stats)
 
-## **📞Contacts**:
+## **📞Contacts**
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
