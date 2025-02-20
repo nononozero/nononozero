@@ -1,13 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus!
 
- **>I’m currently learning:**
+ **>📚I’m currently learning:**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nononozero&show_icons=true&theme=dark)
 
-## **Contacts**:
+## **📞Contacts**:
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
