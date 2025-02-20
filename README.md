@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my profile.
  **My name is Matheus!**
 
  **>📚I’m currently learning:**
