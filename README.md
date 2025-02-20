@@ -5,8 +5,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nononozero)](https://github.com/nononozero/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nononozero&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nononozero)](https://github.com/nononozero/github-readme-stats)
 
 ## **📞Contacts**:
 
