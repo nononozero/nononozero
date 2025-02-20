@@ -5,6 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nononozero)](https://github.com/nononozero/github-readme-stats)
 
 ## **Contacts**:
 
@@ -16,7 +17,6 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nononozero)](https://github.com/nononozero/github-readme-stats)
 
 <!--
 **nononozero/nononozero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
