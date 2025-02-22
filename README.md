@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my profile.
- **My name is Matheus!**
+# 👋 Hello!
+ **My name is Matheus.**
 
  **>📚I’m currently learning:**
 
