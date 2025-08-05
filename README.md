@@ -3,7 +3,7 @@
 
  **>📚I’m currently learning:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ⭐ **GitHub Stats**
 
